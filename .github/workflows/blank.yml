@@ -16,4 +16,4 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: listing
-        run: ls ~/
+        run: ls ~/work
